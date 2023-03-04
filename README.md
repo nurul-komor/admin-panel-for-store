@@ -46,7 +46,7 @@ For support, email nurulkomor123@gmail.com
 Clone the project
 
 ```bash
-  Git clone https://link-to-project
+  git clone https://github.com/nurul-komor/admin-panel-for-store.git
 ```
 
 Go to the project directory
